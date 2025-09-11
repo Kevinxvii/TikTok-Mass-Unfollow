@@ -16,14 +16,18 @@ function startUnfollow() {
             console.log("✅ Finito!");
             return;
         }
-        buttons[i].click();
-        console.log("❌ Unfollow su:", i + 1, "/", buttons.length);
-        i++;
-        setTimeout(clickNext, 800);
+        buttons[i].scrollIntoView({ behavior: "smooth", block: "center" });
+        setTimeout(() => {
+            buttons[i].click();
+            console.log("❌ Unfollow su:", i + 1, "/", buttons.length);
+            i++;
+            setTimeout(clickNext, 800);
+        }, 500);
     }
 
     clickNext();
 }
+
 
 const spanButtonFollowing = document.querySelector('[data-e2e="following"]');
 if (spanButtonFollowing) {
