@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="logo.png" alt="TikTok Mass Unfollow Logo" width="150">
+  <img src="logo.png" alt="TikTok Mass Unfollow Logo" width="450">
 </p>
-
-# TikTok Mass Unfollow Extension
 
 # TikTok Mass Unfollow Extension
 
