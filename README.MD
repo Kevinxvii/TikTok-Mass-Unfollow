@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="logo.png" alt="TikTok Mass Unfollow Logo" width="150">
+</p>
+
+# TikTok Mass Unfollow Extension
+
 # TikTok Mass Unfollow Extension
 
 **TikTok Mass Unfollow** è un'estensione per Chrome che automatizza l'azione di "unfollow" su tutti gli account che segui su TikTok. Usa questa estensione con cautela, poiché comporta il rischio che TikTok limiti o blocchi azioni automatizzate se eseguite troppo rapidamente.
