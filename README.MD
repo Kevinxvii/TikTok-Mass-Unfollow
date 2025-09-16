@@ -24,7 +24,7 @@
 4. Seleziona **Carica estensione non pacchettizzata**.
 5. Scegli la cartella del progetto (`TikTokUnfollow`).
 
-L'estensione sarà attiva e funzionante su tutte le pagine dei profili TikTok.
+L'estensione sarà attiva e funzionante su tutte le pagine dei profili TikTok(mettere lingue in inlgese)
 
 ---
 
